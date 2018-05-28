@@ -3,3 +3,5 @@ MNIST_data
 /cnn.py
 /chapter7/tsne.png
 /chapter7/text8.zip
+/chapter7/ptb/simple-examples.tgz
+simple-examples
