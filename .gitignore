@@ -5,3 +5,5 @@ MNIST_data
 /chapter7/text8.zip
 /chapter7/ptb/simple-examples.tgz
 simple-examples
+dqn
+MNIST
